@@ -1,0 +1,40 @@
+{
+ "name": "A. Wan-Bissaka",
+ "description": "Player A. Wan-Bissaka from Manchester United (tier 1)",
+ "image": "https://media.api-sports.io/football/players/18846.png",
+ "content_url": "https://media.api-sports.io/football/players/18846.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "18846"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Manchester United"
+  },
+  {
+   "trait_type": "Position",
+   "value": "D"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "2"
+  }
+ ]
+}

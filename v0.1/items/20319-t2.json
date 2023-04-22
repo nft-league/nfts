@@ -1,0 +1,40 @@
+{
+ "name": "Nathan Bishop",
+ "description": "Player Nathan Bishop from Manchester United (tier 1)",
+ "image": "https://media.api-sports.io/football/players/20319.png",
+ "content_url": "https://media.api-sports.io/football/players/20319.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "20319"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Manchester United"
+  },
+  {
+   "trait_type": "Position",
+   "value": "G"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "2"
+  }
+ ]
+}

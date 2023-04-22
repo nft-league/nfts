@@ -1,0 +1,40 @@
+{
+ "name": "Jack Wells-Morrison",
+ "description": "Player Jack Wells-Morrison from Crystal Palace (tier 1)",
+ "image": "https://media.api-sports.io/football/players/284551.png",
+ "content_url": "https://media.api-sports.io/football/players/284551.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "284551"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Crystal Palace"
+  },
+  {
+   "trait_type": "Position",
+   "value": "M"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "3"
+  }
+ ]
+}

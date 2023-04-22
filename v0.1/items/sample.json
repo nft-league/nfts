@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "description": "",
+  "image": "https://nft.animalsredlist.org/nfts/Aaadonta%20angaurana.png",
+  "content_url": "https://nft.animalsredlist.org/nfts/Aaadonta%20angaurana.png",
+  "attributes": [
+    {
+      "trait_type": "Position",
+      "value": "M"
+    },
+    {
+      "trait_type": "Games",
+      "value": "5"
+    },
+    {
+      "trait_type": "Club",
+      "value": "LFC"
+    }
+  ]
+}

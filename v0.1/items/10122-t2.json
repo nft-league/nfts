@@ -1,0 +1,40 @@
+{
+ "name": "Renan Lodi",
+ "description": "Player Renan Lodi from Nottingham Forest (tier 1)",
+ "image": "https://media.api-sports.io/football/players/10122.png",
+ "content_url": "https://media.api-sports.io/football/players/10122.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "10122"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Nottingham Forest"
+  },
+  {
+   "trait_type": "Position",
+   "value": "M"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "2"
+  }
+ ]
+}

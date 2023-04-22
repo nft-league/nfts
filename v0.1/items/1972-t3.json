@@ -1,0 +1,40 @@
+{
+ "name": "Loris Karius",
+ "description": "Player Loris Karius from Newcastle (tier 1)",
+ "image": "https://media.api-sports.io/football/players/1972.png",
+ "content_url": "https://media.api-sports.io/football/players/1972.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "1972"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Newcastle"
+  },
+  {
+   "trait_type": "Position",
+   "value": "G"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "3"
+  }
+ ]
+}
