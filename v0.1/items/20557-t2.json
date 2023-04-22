@@ -1,0 +1,40 @@
+{
+ "name": "I. Diallo",
+ "description": "Player I. Diallo from Southampton (tier 1)",
+ "image": "https://media.api-sports.io/football/players/20557.png",
+ "content_url": "https://media.api-sports.io/football/players/20557.png",
+ "attributes": [
+  {
+   "trait_type": "version",
+   "value": "0.1"
+  },
+  {
+   "trait_type": "Player ID",
+   "value": "20557"
+  },
+  {
+   "trait_type": "Team Name",
+   "value": "Southampton"
+  },
+  {
+   "trait_type": "Position",
+   "value": "M"
+  },
+  {
+   "trait_type": "League",
+   "value": "England Premier League"
+  },
+  {
+   "trait_type": "Games Count",
+   "value": "0"
+  },
+  {
+   "trait_type": "Games Total",
+   "value": "8"
+  },
+  {
+   "trait_type": "Tier",
+   "value": "2"
+  }
+ ]
+}
